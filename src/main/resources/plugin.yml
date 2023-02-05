@@ -1,6 +1,0 @@
-name: PluginMine
-version: '${project.version}'
-main: pluginmine.pluginmine.PluginMine
-api-version: 1.19
-authors: [ Hamater ]
-description: Tentando criar um plugin no mine
