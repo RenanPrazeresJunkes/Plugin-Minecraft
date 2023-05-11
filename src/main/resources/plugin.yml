@@ -1,0 +1,4 @@
+name: PluginHT
+version: '${project.version}'
+main: hamater.pluginht.PluginHT
+api-version: 1.19
